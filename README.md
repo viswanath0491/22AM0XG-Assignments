@@ -10,3 +10,12 @@
 - [ ] [Docker] Pull one of the participant’s docker images and verify whether the app is running or not 
 - [x] Create a GitHub account with a personal mail ID and create the repo with your register_number_22AM0XG
 - [x] Create a LinkedIn account with personal mail ID
+
+### Day 2 Assignments
+
+- [ ] Create a simple machine-learning application & verify the prediction based on the given score
+- [x] Create a simple machine-learning application & verify the accuracy
+- [ ] [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser
+- [ ] Commit all the code to GitHub Repo
+- [ ] Document all the learnings with screenshots in the GitHub Wiki
+- [ ] Create a post on Linkedin
