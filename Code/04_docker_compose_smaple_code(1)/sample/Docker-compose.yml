@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  movie-app:
+    build:
+      context: ./movie
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./movie:/app
+    container_name: movie_app
+  
+  email-app:
+    build:
+      context: ./email
+    ports:
+      - "5001:5001"
+    volumes:
+      - ./email:/app
+    container_name: email_app
